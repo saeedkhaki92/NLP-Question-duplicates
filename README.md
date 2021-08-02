@@ -31,5 +31,5 @@ We will be using the Quora question answer dataset to build a model that could i
 A Siamese network is a neural network which uses the same weights while working in tandem on two different input vectors to compute comparable output vectors.The Siamese network you are about to implement looks like this:
 
 
-![Alt Text](https://github.com/saeedkhaki92/Sentiment-Analysis-of-Tweets/blob/main/nn.jpg)
+![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/siamese.png)
 
