@@ -23,4 +23,13 @@ Following packages should be installed on python 3:
 
 ## Dataset
 
-The model is trained and validated on 10K tweets. I used 8K tweets for training and 2K tweets for validation.
+We will be using the Quora question answer dataset to build a model that could identify similar questions. This is a useful task because you don't want to have several versions of the same question posted. Several times when teaching I end up responding to similar questions on piazza, or on other community forums. 
+
+
+### Model
+
+A Siamese network is a neural network which uses the same weights while working in tandem on two different input vectors to compute comparable output vectors.The Siamese network you are about to implement looks like this:
+
+
+![Alt Text](https://github.com/saeedkhaki92/Sentiment-Analysis-of-Tweets/blob/main/nn.jpg)
+
