@@ -3,7 +3,7 @@
 This project explores Siamese networks applied to natural language processing to find if two questions are duplicates or not. The project uses Trax deep learning library for implementation.
 
 
-![Alt Text](https://github.com/saeedkhaki92/Sentiment-Analysis-of-Tweets/blob/main/nn.jpg)
+![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/meme.png)
 
 
 ## Getting Started
