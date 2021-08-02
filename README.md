@@ -33,3 +33,12 @@ A Siamese network is a neural network which uses the same weights while working 
 
 ![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/siamese.png)
 
+
+
+## Instructions
+
+You can train the model from scrath using the Google Colab notebooks. Please use `Q_duplicate_trax.ipynb` for Trax version.
+
+## Results
+
+I trained the model for several epochs and the validation accuracy is around 70%.
